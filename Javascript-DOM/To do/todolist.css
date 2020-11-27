@@ -1,0 +1,21 @@
+.addNote{
+    float: right;
+}
+.container{
+ background-color: antiquewhite;
+ width:500px;
+ margin: 0 auto;
+
+}
+.jumbotron{
+    float: left;
+}
+
+.btn{
+    background-color: green;
+    -webkit-text-fill-color: aliceblue;
+}
+.task{
+    padding-top: 7%;
+
+}
